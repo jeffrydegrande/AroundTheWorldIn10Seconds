@@ -6,9 +6,9 @@ public class PlayerMovement : MonoBehaviour {
 	
 	public AudioClip jumpSound;
 	
-	private float speed = 12.0f;
+	private float speed = 14.0f;
 	private float gravity = 20.0f;
-	private float jumpSpeed = 12.0f;
+	private float jumpSpeed = 14.0f;
 	
 	private Vector3 direction = Vector3.zero;
 	
